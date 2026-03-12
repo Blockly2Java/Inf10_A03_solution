@@ -6,12 +6,13 @@ Nicht mehr sich, wie das funktioniert? Unten findest du Beispiele und Erklärung
 
 
 ## Aufgabe
-[task][Taschenrechner](AddStruct,SubStruct,MulStruct,DivStruct,AddBehave,SubBehave,MulBehave,DivBehave,ClassStruct)
+[//]: [task][Taschenrechner](AddStruct,SubStruct,MulStruct,DivStruct,AddBehave,SubBehave,MulBehave,DivBehave,ClassStruct)
 
 Die Vorlage enthält bereits leere Methoden. Programmiere den Inhalt anhand des jeweiligen Namens. In der Main kannst du die Methoden mit passenden Parametern aufrufen und den Rückgabewert z.B. auf der Konsole ausgeben.
 
 Unten findest du zur Übersichtlichkeit noch ein Klassendiagramm zur Klasse Taschenrechner.
 
+```
 +------------------------------------------------------------+
 |                      Taschenrechner                        |
 +------------------------------------------------------------+
@@ -23,3 +24,6 @@ Unten findest du zur Übersichtlichkeit noch ein Klassendiagramm zur Klasse Tasc
 | + static dividieren(z1: double, z2: double): double        |
 | + static mittelwert(z1: double, z2: double): double        |
 +------------------------------------------------------------+
+```
+
+
