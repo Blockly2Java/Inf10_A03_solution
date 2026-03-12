@@ -13,17 +13,17 @@ Die Vorlage enthält bereits leere Methoden. Programmiere den Inhalt anhand des 
 Unten findest du zur Übersichtlichkeit noch ein Klassendiagramm zur Klasse Taschenrechner.
 
 ```
-+------------------------------------------------------------+
-|                      Taschenrechner                        |
-+------------------------------------------------------------+
-|                                                            |
-+------------------------------------------------------------+
-| + static addieren(z1: double, z2: double): double          |
-| + static subtrahieren(z1: double, z2: double): double      |
-| + static multiplizieren(z1: double, z2: double): double    |
-| + static dividieren(z1: double, z2: double): double        |
-| + static mittelwert(z1: double, z2: double): double        |
-+------------------------------------------------------------+
++---------------------------------------------------------+
+|                    Taschenrechner                       |
++---------------------------------------------------------+
+|                                                         |
++---------------------------------------------------------+
+| + static double addieren(double z1, double z2)          |
+| + static double subtrahieren(double z1, double z2)      |
+| + static double multiplizieren(double z1, double z2)    |
+| + static double dividieren(double z1, double z2)        |
+| + static double mittelwert(double z1, double z2)        |
++---------------------------------------------------------+
 ```
 
 
