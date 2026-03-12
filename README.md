@@ -10,7 +10,7 @@ Nicht mehr sich, wie das funktioniert? Unten findest du Beispiele und Erklärung
 
 Die Vorlage enthält bereits eine (noch sinnfrei programmierte) `addieren`-Methode. Im untenstehenden Klassendiagramm findest du 4 weitere Methoden, die zu implementieren sind.
 
-Programmiere den Inhalt aller Methoden anhand ihres jeweiligen Namens. In der Main kannst du die Methoden mit passenden Parametern aufrufen (ein Beispiel für die Addition ist bereits enthalten) und den Rückgabewert z.B. in der Konsole ausgeben.
+Programmiere den Inhalt aller Methoden anhand ihres jeweiligen Namens. In der main-Methode kannst du die Methoden mit passenden Parametern aufrufen (ein Beispiel für die Addition ist bereits enthalten) und den Rückgabewert z.B. in der Konsole ausgeben.
 
 ---
 

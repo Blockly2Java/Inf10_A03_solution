@@ -3,7 +3,7 @@ Erstelle dein Programm über Blockly und
 klicke auf 'Play', um es auszuführen!
 */
 
-public class Main { 
+public class Taschenrechner {
     /**
      * Das Hauptprogramm (main-Methode):
      * Alles, was ausgeführt werden soll,
@@ -43,7 +43,3 @@ public class Main {
     }
 
 }
-
-
-// main()-Methode starten
-Main.main();
