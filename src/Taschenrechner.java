@@ -41,5 +41,8 @@ public class Taschenrechner {
         double summe = z1 + z2;
         return summe / 2;
     }
+    public static double potenzieren(double z1, double z2) {
+        return Math.pow(z1, z2);
+    }
 
 }
